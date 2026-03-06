@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "白日夢 - Hakujitsumu (feat. isui)",
+  "base_artist": "Islet",
+  "createdAt": "2026-03-06T08:22:13.587340Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/01_白日夢_人間椅子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "草東沒有派對",
+      "has_synced": true,
+      "path": "select/02_白日夢_草東沒有派對.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "Will Pan",
+      "has_synced": true,
+      "path": "select/03_白日夢_Will_Pan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "Yisa Yu",
+      "has_synced": true,
+      "path": "select/04_白日夢_Yisa_Yu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "許美靜",
+      "has_synced": false,
+      "path": "select/05_白日夢_許美靜.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "草東沒有派對",
+      "has_synced": true,
+      "path": "select/06_白日夢_草東沒有派對.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "冰球樂團",
+      "has_synced": true,
+      "path": "select/07_白日夢_冰球樂團.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "icyball 冰球樂團",
+      "has_synced": true,
+      "path": "select/08_白日夢_icyball_冰球樂團.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "草蜢",
+      "has_synced": false,
+      "path": "select/09_白日夢_草蜢.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "周予天",
+      "has_synced": true,
+      "path": "select/10_白日夢_周予天.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "潘瑋柏",
+      "has_synced": true,
+      "path": "select/11_白日夢_潘瑋柏.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "Ningen-Isu",
+      "has_synced": false,
+      "path": "select/12_白日夢_Ningen-Isu.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "白日夢",
+      "artist": "许美静",
+      "has_synced": false,
+      "path": "select/13_白日夢_许美静.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Day Dream (白日夢)",
+      "artist": "NCT 127",
+      "has_synced": true,
+      "path": "select/14_Day_Dream_(白日夢)_NCT_127.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Day Dream (白日夢)",
+      "artist": "NCT 127 (엔씨투 127)",
+      "has_synced": true,
+      "path": "select/15_Day_Dream_(白日夢)_NCT_127_(엔씨투_127).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Day Dream (白日夢)",
+      "artist": "NCT 127",
+      "has_synced": true,
+      "path": "select/16_Day_Dream_(白日夢)_NCT_127.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白日夢 (feat. 倚水)",
+      "artist": "Islet",
+      "has_synced": false,
+      "path": "select/pl_01_白日夢_(feat._倚水)_Islet.txt"
+    }
+  ]
+}
